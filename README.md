@@ -1,9 +1,9 @@
 <p align="center">
       <img width="110" height="33" src="https://visitor-badge.glitch.me/badge?page_id=SvilenStoev">  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
       <br>
-   <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
-   <img width="200" height="150" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
-   <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+   <img width="180" height="135" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+   <img width="180" height="135" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
+   <img width="180" height="135" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
 </p>
 
 ## Recent activities
