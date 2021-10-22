@@ -35,4 +35,4 @@ My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in 
    |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://github.com/SvilenStoev/JavaScript-SoftUni/tree/main/JS%20Advanced"> In progress</a> |
    |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications - October 2021** </a>| <a href="https://github.com/SvilenStoev/JavaScript-SoftUni/tree/main/JS%20Advanced"> In progress</a> |
    |<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> **HTML & CSS - January 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
-   |<a href="https://softuni.bg/trainings/3603/angular-march-2022/internal"> **Angular - March 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
+   |<a href="https://softuni.bg/trainings/3603/angular-march-2022"> **Angular - March 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
