@@ -8,7 +8,7 @@
 
 ## Recent activities
 - 🌱 I’m currently learning ... **JavaScript**
-- :computer: I’m currently working on the server side of a private project with **ASP.NET core and Web API**
+- :computer: I’m currently working on the server side of a private project with **ASP.NET core and REST API**
 
 ## About me
 My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after **[successful project defence](https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp)** with maximum points, I have graduated the University with major **"Software Engineering" with C#**. Aiming to become Full-Stack developer I continued my education with **JavaScript** course. My next goal is to study Front-end framework like **Angular** and expand my knowledge in **Data Structures** and **Algorithms**.
@@ -34,3 +34,5 @@ My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in 
    |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> **ASP.NET Core - June 2021** </a>| <a href="https://softuni.bg/certificates/details/113477/90002fb2"> Open</a> |
    |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://github.com/SvilenStoev/JavaScript-SoftUni/tree/main/JS%20Advanced"> In progress</a> |
    |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications - October 2021** </a>| <a href="https://github.com/SvilenStoev/JavaScript-SoftUni/tree/main/JS%20Advanced"> In progress</a> |
+   |<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> **HTML & CSS - January 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
+   |<a href="https://softuni.bg/trainings/3603/angular-march-2022/internal"> **Angular - March 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
