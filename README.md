@@ -32,7 +32,7 @@ My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in 
    |<a href="https://softuni.bg/trainings/3221/entity-framework-core-february-2021"> **Entity Framework Core - February 2021** </a> | <a href="https://softuni.bg/certificates/details/102731/49aeace4"> Open</a> |
    |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021/internal"> **C# Web Basics - May 2021** </a> | <a href="https://softuni.bg/certificates/details/109511/dbf7f14a"> Open</a> |
    |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> **ASP.NET Core - June 2021** </a>| <a href="https://softuni.bg/certificates/details/113477/90002fb2"> Open</a> |
-   |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://github.com/SvilenStoev/JavaScript-SoftUni/tree/main/JS%20Advanced"> In progress</a> |
+   |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://softuni.bg/certificates/details/114913/a287b349"> Open</a> |
    |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications - October 2021** </a>| <a href="https://github.com/SvilenStoev/JavaScript-SoftUni/tree/main/JS%20Advanced"> In progress</a> |
    |<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> **HTML & CSS - January 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
    |<a href="https://softuni.bg/trainings/3603/angular-march-2022"> **Angular - March 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
