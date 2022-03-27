@@ -7,7 +7,8 @@
 </p>
 
 ## Recent activities
-- 🌱 I’m currently learning ... **JavaScript**
+- 🌱 I’m currently learning ... **Angular**
+- 🌱 I’m currently improving my skills in ... **JavaScript**
 
 ## About me
 My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after **[successful project defence](https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp)** with maximum points, I have graduated the University with major **"Software Engineering" with C#**. Aiming to become Full-Stack developer I continued my education with **JavaScript** course. My next goal is to study Front-end framework like **Angular** and expand my knowledge in **Data Structures** and **Algorithms**.
