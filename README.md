@@ -7,20 +7,27 @@
 </p>
 
 ## Recent activities
-- 🌱 I’m currently learning ... **Angular**
-- 🌱 I’m currently improving my skills in ... **JavaScript**
+- 🌱 I’m currently improving my skills in ... **JavaScript, Angular and CSS**
 
 ## About me
-My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after **[successful project defence](https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp)** with maximum points, I have graduated the University with major **"Software Engineering" with C#**. Aiming to become Full-Stack developer I continued my education with **JavaScript** course. My next goal is to study Front-end framework like **Angular** and expand my knowledge in **Data Structures** and **Algorithms**.
+My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after <a href="https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp" target="_blank"><b>successful project defence</b></a> with maximum points, I have graduated the University with major **"Software Engineering" with C#**. Aiming to become Full-Stack developer I continued my education with **JavaScript** and **Angular** courses. In **April 2022**, I have defended **[my project](https://github.com/SvilenStoev/Angular-App-Befer)** with maximum points. My next goal is to expand my knowledge in **Data Structures** and **Algorithms**.
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="50" height="50"/> </a>
+      <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlServer" width="50" height="50"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+      <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+      <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualStudio" width="50" height="50"/> </a>
+      <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>
+</p>
 
 | ***📧 Contact me here*** |
 | :-: |
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svilenstoev/)  [![Mail Badge](https://img.shields.io/badge/-svilen.d.stoev@abv.bg-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:svilen.d.stoev@abv.bg)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/svilen.stoev.3/)](https://www.facebook.com/svilen.stoev.3/)
-
-<div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=SvileNStoev&count_private=true&true&hide=issues&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvilenStoev&layout=compact" />
-</div>
 
 |🎓 **SoftUni Courses**| :scroll: **Certificates**| 
    | :---:  | :---:  |
