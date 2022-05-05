@@ -10,7 +10,7 @@
 - 🌱 I’m currently improving my skills in ... **JavaScript, Angular and CSS**
 
 ## About me
-My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after <a href="https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp" target="_blank"><b>successful project defence</b></a> with maximum points, I have graduated the University with major **"Software Engineering" with C#**. Aiming to become Full-Stack developer I continued my education with **JavaScript** and **Angular** courses. In **April 2022**, I have defended **[my project](https://github.com/SvilenStoev/Angular-App-Befer)** with maximum points. My next goal is to expand my knowledge in **Data Structures** and **Algorithms**.
+My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after <a href="https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp" target="_blank"><b>successful project defence</b></a> with maximum points, I have graduated the University with major **"Software Engineering" with C#**. Aiming to become Full-Stack developer I continued my education with **JavaScript** and **Angular** courses. In **April 2022**, I have defended **[my project](https://github.com/SvilenStoev/Angular-App-Befer)** built with **Angular** with maximum points. My next goal is to expand my knowledge in **Data Structures** and **Algorithms**.
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -41,5 +41,5 @@ My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in 
    |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> **ASP.NET Core - June 2021** </a>| <a href="https://softuni.bg/certificates/details/113477/90002fb2"> Open</a> |
    |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://softuni.bg/certificates/details/114913/a287b349"> Open</a> |
    |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications - October 2021** </a>| <a href="https://softuni.bg/certificates/details/121027/4f8dd919"> Open</a> |
-   |<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> **HTML & CSS - January 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
-   |<a href="https://softuni.bg/trainings/3603/angular-march-2022"> **Angular - March 2022** </a>| <a href="https://github.com/SvilenStoev"> Next goal</a> |
+   |<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> **HTML & CSS - January 2022** </a>| <a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> Open</a> |
+   |<a href="https://softuni.bg/trainings/3603/angular-march-2022"> **Angular - March 2022** </a>| <a href="https://softuni.bg/certificates/details/133091/2899a89f"> Open</a> |
