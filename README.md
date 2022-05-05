@@ -25,10 +25,6 @@ My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in 
       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>
 </p>
 
-| ***📧 Contact me here*** |
-| :-: |
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svilenstoev/)  [![Mail Badge](https://img.shields.io/badge/-svilen.d.stoev@abv.bg-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:svilen.d.stoev@abv.bg)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/svilen.stoev.3/)](https://www.facebook.com/svilen.stoev.3/)
-
 |🎓 **SoftUni Courses**| :scroll: **Certificates**| 
    | :---:  | :---:  |
    |<a href="https://softuni.bg/trainings/2428/programming-basics-with-csharp-september-2019" > **Programming Basics with C# - September 2019** </a>   | <a href="https://softuni.bg/certificates/details/71502/e414b66e"> Open</a> |
@@ -43,3 +39,9 @@ My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in 
    |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications - October 2021** </a>| <a href="https://softuni.bg/certificates/details/121027/4f8dd919"> Open</a> |
    |<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> **HTML & CSS - January 2022** </a>| <a href="https://softuni.bg/trainings/3604/html-and-css-january-2022"> Open</a> |
    |<a href="https://softuni.bg/trainings/3603/angular-march-2022"> **Angular - March 2022** </a>| <a href="https://softuni.bg/certificates/details/133091/2899a89f"> Open</a> |
+
+<br>
+
+| ***📧 Contact me here*** |
+| :-: |
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svilenstoev/)  [![Mail Badge](https://img.shields.io/badge/-svilen.d.stoev@abv.bg-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:svilen.d.stoev@abv.bg)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/svilen.stoev.3/)](https://www.facebook.com/svilen.stoev.3/)
