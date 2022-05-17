@@ -10,7 +10,8 @@
 - 🌱 I’m currently improving my skills in ... **JavaScript, Angular and CSS**
 
 ## About me
-My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after <a href="https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp" target="_blank"><b>successful project defence</b></a> with maximum points, I have graduated the University with major **"Software Engineering" with C#**. Aiming to become Full-Stack developer I continued my education with **JavaScript** and **Angular** courses. In **April 2022**, I have successfully defended **[my project](https://github.com/SvilenStoev/Angular-App-Befer)** built with **Angular**, receiving maximum points. My next goal is to expand my knowledge in **Data Structures** and **Algorithms**.
+My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in the Healthcare industry. My deep interest in automation of processes motivated me to start studying programming in **[Software University](https://softuni.bg/)** back to **2019**. In **August 2021**, after <a href="https://github.com/SvilenStoev/ASP.NET-Core-Project-BoostUp" target="_blank"><b>successful project defence</b></a> with maximum points, I have graduated the University with major **"Software Engineering", profession "C# Web Developer"** and acquired **[diploma for professional qualification](https://softuni.bg/certificates/details/133422/929fc903)** .
+<br>Aiming to become Full-Stack developer I continued my education with **JavaScript** and **Angular** courses. In **April 2022**, I have successfully defended **[my project](https://github.com/SvilenStoev/Angular-App-Befer)** built with **Angular**, receiving maximum points. My next goal is to expand my knowledge in **Data Structures** and **Algorithms**.
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -24,6 +25,10 @@ My name is **Svilen Stoev** and I'm currently working as a Senior Accountant in 
       <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualStudio" width="50" height="50"/> </a>
       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>
 </p>
+
+|🎓 **Major, profession**| :scroll: **Diploma**| 
+   | :---:  | :---:  |
+   |<a href="https://softuni.bg/curriculum" > **"Software Engineering", "C# Web Developer"** </a>   | <a href="https://softuni.bg/certificates/details/133422/929fc903"> Open</a> |
 
 |🎓 **SoftUni Courses**| :scroll: **Certificates**| 
    | :---:  | :---:  |
